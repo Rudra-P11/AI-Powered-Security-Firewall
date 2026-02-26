@@ -1,4 +1,4 @@
-# 🛡️ Gemini-Only Security Firewall
+# 🛡️ AI-Powered Security Firewall
 
 An intelligent middleware proxy application that acts as a robust security firewall for Large Language Models (LLMs). This project implements an architecture where a smaller, faster model (**Gemini 2.5 Flash**) acts as "The Guard" and structurally evaluates incoming prompts before passing them to the more powerful "Brain" model (**Gemini 2.5 Pro**).
 
