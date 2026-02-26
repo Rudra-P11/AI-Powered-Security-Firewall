@@ -6,7 +6,7 @@ Use this document to prepare for interviews. The first section is a "Narrative E
 
 ## 📖 How to Explain This Project (The Pitch)
 
-"I built a project called the **Gemini-Only Security Firewall**. The core idea came from a growing problem in AI: **LLM Security**. As we integrate AI into more apps, they become vulnerable to things like 'Prompt Injections' or 'Jailbreaking'—where a user tries to trick the AI into ignoring its safety rules or leaking sensitive instructions.
+"I built a project called the **Ai-Powered Security Firewall**. The core idea came from a growing problem in AI: **LLM Security**. As we integrate AI into more apps, they become vulnerable to things like 'Prompt Injections' or 'Jailbreaking'—where a user tries to trick the AI into ignoring its safety rules or leaking sensitive instructions.
 
 Most people try to solve this with simple word filters, but that’s not enough. So, I designed a **'Multi-Layered Middleware'** architecture. I used two different models for two different jobs. I call them **The Guard** and **The Brain**.
 
